@@ -1,2 +1,2 @@
-# file_handle
-文件处理的框架，读取input文件夹中的文件处理后写入output文件夹
+# flask写的后台
+直接运行app.py就可以了，前端文件打包好放在www里，数据库代码写在UserManagement.py里
